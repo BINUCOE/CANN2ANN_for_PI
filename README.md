@@ -10,3 +10,16 @@ function imresize(), modified from [2].
 
 [1] https://github.com/cognav/NeuroSLAM.git
 [2] https://github.com/fatheral/matlab_imresize
+
+Implementation Details
+TensorFlow Implementation (for Edge Deployment):
+
+Environment: Python 3.6 / TensorFlow 1.14
+
+Description: This version is optimized for execution on edge devices.
+
+PyTorch Implementation:
+
+Environment: Python 3.9 / PyTorch 1.13
+
+Description: A modern implementation leveraging newer features of the PyTorch ecosystem.
